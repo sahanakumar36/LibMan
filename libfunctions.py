@@ -6,6 +6,12 @@ import csv
 # Book Name
 
 def get_genre():
+    """
+        :param
+            None
+        :return
+            list
+    """
     # open file
     # read file into reader
     # declare empty list genre
